@@ -1,0 +1,349 @@
+
+C:\Users\corre>cd Desktop
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\corre>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: AE6D-E8F6
+
+ Directorio de C:\Users\corre
+
+12/12/2022  15:38    <DIR>          .
+27/11/2022  04:30    <DIR>          ..
+20/11/2022  15:27    <DIR>          .cache
+06/12/2022  18:34    <DIR>          .ipynb_checkpoints
+19/11/2022  13:41    <DIR>          .ipython
+23/11/2022  11:13    <DIR>          .jupyter
+26/11/2022  11:15    <DIR>          .matplotlib
+19/11/2022  00:21    <DIR>          .vscode
+11/12/2022  21:29    <DIR>          .vscode-R
+20/11/2022  14:34    <DIR>          .wdm
+26/11/2022  09:15         7.840.132 20221125 (1).zip
+26/11/2022  09:15        19.886.901 20221125(1).zip
+27/11/2022  04:34    <DIR>          Contacts
+18/11/2022  17:26    <DIR>          Documents
+12/12/2022  19:16    <DIR>          Downloads
+02/12/2022  17:01           174.074 Ejemplo1_TTEST.ipynb
+02/12/2022  18:05    <DIR>          entorno_virtual_01
+27/11/2022  04:34    <DIR>          Favorites
+09/12/2022  19:44         4.911.735 Jupyter_Python_temas_interés_máster.ipynb
+27/11/2022  04:34    <DIR>          Links
+26/11/2022  13:06    <DIR>          Microsoft
+27/11/2022  04:34    <DIR>          Music
+27/11/2022  21:17            31.243 N_0001_Criptomonedas_Entrega_Guillermo.ipynb
+12/12/2022  15:38    <DIR>          OneDrive
+07/12/2022  17:36    <DIR>          PycharmProjects
+27/11/2022  21:19                78 requirements.txt
+02/12/2022  17:51               837 saldosucursales(1).csv
+27/11/2022  04:34    <DIR>          Saved Games
+27/11/2022  04:34    <DIR>          Searches
+07/12/2022  04:12    <DIR>          Untitled Folder
+26/11/2022  09:19               589 Untitled.ipynb
+02/12/2022  17:54               589 Untitled1.ipynb
+02/12/2022  17:54               589 Untitled2.ipynb
+27/11/2022  04:34    <DIR>          Videos
+25/11/2022  19:20         5.698.951 Youtube Trending.ipynb
+              11 archivos     38.545.718 bytes
+              24 dirs  884.055.330.816 bytes libres
+
+C:\Users\corre>cd GIT
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\corre>cd Desktop
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\corre>cd
+C:\Users\corre
+
+C:\Users\corre>cd ..
+
+C:\Users>cd Escritorio
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users>cd corre
+
+C:\Users\corre>cd Escritorio
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\corre>cd Desktop
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\corre>cd GIT
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\corre>Escritorio
+"Escritorio" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\corre>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: AE6D-E8F6
+
+ Directorio de C:\Users\corre
+
+12/12/2022  15:38    <DIR>          .
+27/11/2022  04:30    <DIR>          ..
+20/11/2022  15:27    <DIR>          .cache
+06/12/2022  18:34    <DIR>          .ipynb_checkpoints
+19/11/2022  13:41    <DIR>          .ipython
+23/11/2022  11:13    <DIR>          .jupyter
+26/11/2022  11:15    <DIR>          .matplotlib
+19/11/2022  00:21    <DIR>          .vscode
+11/12/2022  21:29    <DIR>          .vscode-R
+20/11/2022  14:34    <DIR>          .wdm
+26/11/2022  09:15         7.840.132 20221125 (1).zip
+26/11/2022  09:15        19.886.901 20221125(1).zip
+27/11/2022  04:34    <DIR>          Contacts
+18/11/2022  17:26    <DIR>          Documents
+12/12/2022  19:16    <DIR>          Downloads
+02/12/2022  17:01           174.074 Ejemplo1_TTEST.ipynb
+02/12/2022  18:05    <DIR>          entorno_virtual_01
+27/11/2022  04:34    <DIR>          Favorites
+09/12/2022  19:44         4.911.735 Jupyter_Python_temas_interés_máster.ipynb
+27/11/2022  04:34    <DIR>          Links
+26/11/2022  13:06    <DIR>          Microsoft
+27/11/2022  04:34    <DIR>          Music
+27/11/2022  21:17            31.243 N_0001_Criptomonedas_Entrega_Guillermo.ipynb
+12/12/2022  15:38    <DIR>          OneDrive
+07/12/2022  17:36    <DIR>          PycharmProjects
+27/11/2022  21:19                78 requirements.txt
+02/12/2022  17:51               837 saldosucursales(1).csv
+27/11/2022  04:34    <DIR>          Saved Games
+27/11/2022  04:34    <DIR>          Searches
+07/12/2022  04:12    <DIR>          Untitled Folder
+26/11/2022  09:19               589 Untitled.ipynb
+02/12/2022  17:54               589 Untitled1.ipynb
+02/12/2022  17:54               589 Untitled2.ipynb
+27/11/2022  04:34    <DIR>          Videos
+25/11/2022  19:20         5.698.951 Youtube Trending.ipynb
+              11 archivos     38.545.718 bytes
+              24 dirs  884.044.210.176 bytes libres
+
+C:\Users\corre>cd Desktop
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\corre>cd C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git --version
+git version 2.39.0.windows.1
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git config --global user.name "raquel.garcia"
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git config --global user.email "rgarciaeste@alumni.unav.es"
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git config --global --list
+user.name=raquel.garcia
+user.email=rgarciaeste@alumni.unav.es
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git init
+Initialized empty Git repository in C:/Users/corre/OneDrive/Escritorio/GIT/GIT_PROYECTO/.git/
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git checkout -b develop
+Switched to a new branch 'develop'
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git status
+On branch develop
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git checkout -b develop
+Switched to a new branch 'develop'
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git status
+On branch develop
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git add .
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git status
+On branch develop
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git commit -m "Añadido fichero README del proyecto"
+[develop (root-commit) 031dd44] Añadido fichero README del proyecto
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 README.md
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git log
+commit 031dd44653ec64b6856d07d91f422a68d7fd4b5f (HEAD -> develop)
+Author: raquel.garcia <rgarciaeste@alumni.unav.es>
+Date:   Mon Dec 12 19:55:22 2022 +0100
+
+    Añadido fichero README del proyecto
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git commit -am "Incorporada descripción en el README"
+[develop 06d55f1] Incorporada descripción en el README
+ 1 file changed, 6 insertions(+)
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git status
+On branch develop
+nothing to commit, working tree clean
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git log
+commit 06d55f1d042b8c176430f95e85053570b0d67999 (HEAD -> develop)
+Author: raquel.garcia <rgarciaeste@alumni.unav.es>
+Date:   Mon Dec 12 20:05:52 2022 +0100
+
+    Incorporada descripción en el README
+
+commit 031dd44653ec64b6856d07d91f422a68d7fd4b5f
+Author: raquel.garcia <rgarciaeste@alumni.unav.es>
+Date:   Mon Dec 12 19:55:22 2022 +0100
+
+    Añadido fichero README del proyecto
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git add eda
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git add eda/
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git status
+On branch develop
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   eda/eda.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        dataprep/
+        predict/
+        train/
+
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git commit -m "Creamos eda del proyecto"
+[develop aa21828] Creamos eda del proyecto
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 eda/eda.py
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git status
+On branch develop
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        dataprep/
+        predict/
+        train/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git add .
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git status
+On branch develop
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   dataprep/dataprep.py
+        new file:   predict/predict.py
+        new file:   train/train.py
+
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git commit -am "Añadimos dataprep, predict y train"
+[develop c17e985] Añadimos dataprep, predict y train
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 dataprep/dataprep.py
+ create mode 100644 predict/predict.py
+ create mode 100644 train/train.py
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git log
+commit c17e9859a03a8eeb6c2c9d4c6489b066d4f9d081 (HEAD -> develop)
+Author: raquel.garcia <rgarciaeste@alumni.unav.es>
+Date:   Mon Dec 12 20:16:16 2022 +0100
+
+    Añadimos dataprep, predict y train
+
+commit aa2182809b610cdfa9a280850c89b694a80ad1c0
+Author: raquel.garcia <rgarciaeste@alumni.unav.es>
+Date:   Mon Dec 12 20:14:26 2022 +0100
+
+    Creamos eda del proyecto
+
+commit 06d55f1d042b8c176430f95e85053570b0d67999
+Author: raquel.garcia <rgarciaeste@alumni.unav.es>
+Date:   Mon Dec 12 20:05:52 2022 +0100
+
+    Incorporada descripción en el README
+
+commit 031dd44653ec64b6856d07d91f422a68d7fd4b5f
+Author: raquel.garcia <rgarciaeste@alumni.unav.es>
+Date:   Mon Dec 12 19:55:22 2022 +0100
+
+    Añadido fichero README del proyecto
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git reset --soft aa2182809b610cdfa9a280850c89b694a80ad1c0
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git log
+commit aa2182809b610cdfa9a280850c89b694a80ad1c0 (HEAD -> develop)
+Author: raquel.garcia <rgarciaeste@alumni.unav.es>
+Date:   Mon Dec 12 20:14:26 2022 +0100
+
+    Creamos eda del proyecto
+
+commit 06d55f1d042b8c176430f95e85053570b0d67999
+Author: raquel.garcia <rgarciaeste@alumni.unav.es>
+Date:   Mon Dec 12 20:05:52 2022 +0100
+
+    Incorporada descripción en el README
+
+commit 031dd44653ec64b6856d07d91f422a68d7fd4b5f
+Author: raquel.garcia <rgarciaeste@alumni.unav.es>
+Date:   Mon Dec 12 19:55:22 2022 +0100
+
+    Añadido fichero README del proyecto
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git status
+On branch develop
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   dataprep/dataprep.py
+        new file:   predict/predict.py
+        new file:   train/train.py
+
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git reset --hard 06d55f1d042b8c176430f95e85053570b0d67999
+HEAD is now at 06d55f1 Incorporada descripción en el README
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git reflog
+06d55f1 (HEAD -> develop) HEAD@{0}: reset: moving to 06d55f1d042b8c176430f95e85053570b0d67999
+aa21828 HEAD@{1}: reset: moving to aa2182809b610cdfa9a280850c89b694a80ad1c0
+c17e985 HEAD@{2}: commit: Añadimos dataprep, predict y train
+aa21828 HEAD@{3}: commit: Creamos eda del proyecto
+06d55f1 (HEAD -> develop) HEAD@{4}: commit: Incorporada descripción en el README
+031dd44 HEAD@{5}: commit (initial): Añadido fichero README del proyecto
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git reset --hard HEAD@{2}
+HEAD is now at c17e985 Añadimos dataprep, predict y train
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git log --online --decorate -- all --graph
+fatal: unrecognized argument: --online
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git config --global alias.lg "log --oneline  decorate --all --graph"
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git config --global alias.lg "log --oneline --decorate --all --graph"
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>git lg
+* c17e985 (HEAD -> develop) Añadimos dataprep, predict y train
+* aa21828 Creamos eda del proyecto
+* 06d55f1 Incorporada descripción en el README
+* 031dd44 Añadido fichero README del proyecto
+
+C:\Users\corre\OneDrive\Escritorio\GIT\GIT_PROYECTO>
